@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Chokos y soy un desarrollador backend en PHP y Python.</h1>
+<h1 align="center">Hola 👋, soy Jair y soy un desarrollador backend en PHP y Python.</h1>
 <h3 align="center">Un desarrollador enamorado de todos los campos de la tecnología.</h3>
 
 - 🔭 Actualmente estoy trabajando en [IENTC Telecomunicaciones](https://ientc.com/)
